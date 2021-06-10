@@ -1,4 +1,5 @@
 [![Header](https://ibb.co/pyMZWpL "Header")](https://wyattdockstader.github.io/Blog/)
+<a href="https://ibb.co/pyMZWpL"><img src="https://i.ibb.co/tXvcZ5J/r6-TLRDY4-Ll0.png" alt="r6-TLRDY4-Ll0" border="0" /></a>
 
 
 <h1>Wyatt Dockstader</h1>
