@@ -3,7 +3,8 @@
 <a href="https://ibb.co/pyMZWpL"><img src="https://i.ibb.co/tXvcZ5J/r6-TLRDY4-Ll0.png" alt="r6-TLRDY4-Ll0" border="0" /></a>
 <p>I am a Full stack dev in training at Boise Code Works!  At Boise Code Works im developing my skills in HTML5 & CSS3, JavaScript ES6, Web API / HTTP, JS Frameworks, Nodejs, DotNet, Core C#, SQL, MongoDb and I've dedicated myself to become a Certified Scrum Master!</p> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<P>📫 How to reach me: dock1776@outlook.com</p>
+<p>⚡ Fun fact: When I'm not coding .. I love the outdoors, restore classic cars and love working with metal (welding,forging and fabrication)</p>
 <!--
 **wyattDockstader/wyattDockstader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
