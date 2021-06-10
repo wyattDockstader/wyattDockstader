@@ -1,7 +1,7 @@
 [![Header](https://www.planetware.com/wpimages/2019/12/idaho-in-pictures-beautiful-places-to-photograph-sawtooth-scenic-byway.jpg "Header")](https://some-url.dev/)
 
 
-<h1>Hey there!</h1>
+<h1>Wyatt Dockstader</h1>
 <div style="background-color:beige; color: black; text-align-center " >
 <p>I am a Full stack dev in training at Boise Code Works!  At Boise Code Works im developing my skills in HTML5 & CSS3, JavaScript ES6, Web API / HTTP, JS Frameworks, Nodejs, DotNet, Core C#, SQL, MongoDb and I've dedicated myself to become a Certified Scrum Master!</p> 
 </div>
