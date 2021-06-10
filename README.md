@@ -5,6 +5,11 @@
 
 <P>📫 How to reach me: dock1776@outlook.com</p>
 <p>⚡ Fun fact: When I'm not coding .. I love the outdoors, restore classic cars and love working with metal (welding,forging and fabrication)</p>
+
+<h3>Blog and Projects!</h3>
+<p>Blog : https://wyattdockstader.github.io/Blog/</p>
+<p>Inspire : https://wyattdockstader.github.io/inspire-checkpoint/</p>
+<p>Wood Shop Warrior : https://wyattdockstader.github.io/woodshop-warrior/</p>
 <!--
 **wyattDockstader/wyattDockstader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
