@@ -1,5 +1,4 @@
-[Header](https://www.planetware.com/wpimages/2019/12/idaho-in-pictures-beautiful-places-to-photograph-sawtooth-scenic-byway.jpg "Header")
-<!-- ](https://some-url.dev/) -->
+[![Header](https://www.planetware.com/wpimages/2019/12/idaho-in-pictures-beautiful-places-to-photograph-sawtooth-scenic-byway.jpg "Header")](https://wyattdockstader.github.io/Blog/)
 
 
 <h1>Wyatt Dockstader</h1>
