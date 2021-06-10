@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/wyattDockstader/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://m.media-amazon.com/images/I/71EImrbbcmL._AC_.jpg "Header")](https://some-url.dev/)
 
 
 <h1>Hey there!</h1>
