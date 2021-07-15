@@ -10,7 +10,7 @@
 <p>Blog : https://wyattdockstader.github.io/Blog/</p>
 <p>Inspire : https://wyattdockstader.github.io/inspire-checkpoint/</p>
 <p>Wood Shop Warrior : https://wyattdockstader.github.io/woodshop-warrior/</p>
-<p>Resume : https://www.canva.com/design/DAEizNqQC-E/share/preview?token=RNy-lkQilRXdc1Tc3-stdw&role=EDITOR&utm_content=DAEizNqQC-E&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton</p>
+<p>Resume : https://ibb.co/LQHSW16</p>
 <!--
 **wyattDockstader/wyattDockstader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
