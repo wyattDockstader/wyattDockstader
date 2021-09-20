@@ -1,9 +1,9 @@
 
 
 <a href="https://wyattdockstader.github.io/Blog/"><img src="https://i.ibb.co/tXvcZ5J/r6-TLRDY4-Ll0.png" alt="r6-TLRDY4-Ll0" border="0" /></a>
-<p>I am a Full stack dev in training at Boise Code Works!  At Boise Code Works im developing my skills in HTML5 & CSS3, JavaScript ES6, Web API / HTTP, JS Frameworks, Nodejs, DotNet, Core C#, SQL and MongoDb</p> 
+<p>I am a Data / BI Engineer at In Time Tec!   I attended Boise Code Works where I developed my skills in HTML5 & CSS3, JavaScript ES6, Web API / HTTP, JS Frameworks, Nodejs, DotNet, Core C#, SQL and MongoDb</p> 
 
-<P>📫 How to reach me: dock1776@outlook.com</p>
+<P>📫 How to reach me: doc1776@outlook.com</p>
 <p>⚡ Fun fact: When I'm not coding .. I love the outdoors, restore classic cars and love working with metal (welding,forging and fabrication)</p>
 
 <h3>Blog and Projects!</h3>
